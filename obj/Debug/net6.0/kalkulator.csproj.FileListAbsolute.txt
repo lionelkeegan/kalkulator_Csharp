@@ -1,0 +1,15 @@
+C:\game dev\pelajaran1\kalkulator\bin\Debug\net6.0\kalkulator.exe
+C:\game dev\pelajaran1\kalkulator\bin\Debug\net6.0\kalkulator.deps.json
+C:\game dev\pelajaran1\kalkulator\bin\Debug\net6.0\kalkulator.runtimeconfig.json
+C:\game dev\pelajaran1\kalkulator\bin\Debug\net6.0\kalkulator.dll
+C:\game dev\pelajaran1\kalkulator\bin\Debug\net6.0\kalkulator.pdb
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\kalkulator.csproj.AssemblyReference.cache
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfoInputs.cache
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfo.cs
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\kalkulator.dll
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\refint\kalkulator.dll
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\kalkulator.pdb
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\kalkulator.genruntimeconfig.cache
+C:\game dev\pelajaran1\kalkulator\obj\Debug\net6.0\ref\kalkulator.dll
